@@ -21,3 +21,15 @@ Here are some ideas to get you started:
 - 🎓 enrolled @ Bachelor's Software engineering from BahirDar University, expected graduation : June,2027
 - 🎓 enrolled @ Bachelor's Business Management from Alpha University & college, expected graduation : June,2027
 - 🌐 You can access all my open source projects here @[github](https://github.com/rozbloom/)
+
+## 🔤 what I am upto :
+'''yaml
+working on developing dental clinics management system 
+'''
+## 📫 how to reach me :
+you can reach me at the email in my githu profile.follow my socials 
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Blooming_roza)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/rozagetachew6)
+
+
