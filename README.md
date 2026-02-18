@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :book: ABOUT ME 
+- 💻 software dev, here to solve problems 
+- ⏰ full-stack deveoper intern at Uponli @ https://uponli.com/
+- 🎓 enrolled @ Bachelor's Software engineering from BahirDar University, expected graduation : June,2027
+- 🎓 enrolled @ Bachelor's Business Management from Alpha University & college, expected graduation : June,2027
+- 🌐 You can access all my open source projects here @[github](https://github.com/rozbloom/)
