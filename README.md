@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ## :book: ABOUT ME 
 - 💻 software dev, here to solve problems 
-- ⏰ full-stack deveoper intern at Uponli @ https://uponli.com/
+- ⏰ worked as full-stack deveoper intern at Uponli @ https://uponli.com/
 - 🎓 enrolled @ Bachelor's Software engineering from BahirDar University, expected graduation : June,2027
 - 🎓 enrolled @ Bachelor's Business Management from Alpha University & college, expected graduation : June,2027
 - 🌐 You can access all my open source projects here @[github](https://github.com/rozbloom/)
 
 ## 🔤 what I am upto :
 '''yaml
-working on developing dental clinics management system 
+working on developing dental clinics management system @[AlyahSoftware](https://alyahsoftware.com/)
 '''
 ## 📫 how to reach me :
 you can reach me at the email in my githu profile.follow my socials 
