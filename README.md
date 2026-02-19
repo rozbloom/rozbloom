@@ -1,5 +1,6 @@
 ![Intro Animation](files/readme_animation_02.gif)
 
+![profile view](https://vbr.nathanchung.dev/badge?page_id=rozbloom.rozbloom&color=00cf00)
 <!--
 **rozbloom/rozbloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
