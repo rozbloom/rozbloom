@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 ```yaml
 working on developing dental clinics management system AlyahSoftware
 ```
+ 🥇 I am currently :
+ - Ambassador for G17 UNIVERSITY AMBASSADORS CONSORTIUM @ [BahirDar University](https://www.bdu.edu.et/)
+ -  Sponsor Finder & External Relations Lead @ Hult Prize Startup - Bahir Dar University (BiT)
+ -  Software developer intern @ [Alyah software](https://alyahsoftware.com/)
 ## 📫 how to reach me :
 you can reach me at the email in my githu profile.follow my socials 
 
