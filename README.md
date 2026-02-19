@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 🌐 You can access all my open source projects here @[github](https://github.com/rozbloom/)
 
 ## 🔤 what I am upto :
-'''yaml
+```yaml
 working on developing dental clinics management system @[AlyahSoftware](https://alyahsoftware.com/)
-'''
+```
 ## 📫 how to reach me :
 you can reach me at the email in my githu profile.follow my socials 
 
