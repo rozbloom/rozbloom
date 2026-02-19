@@ -1,5 +1,8 @@
-## Hi there 👋
+![Intro Animation](files/readme_animation_02.gif)
 
+![profile view](https://vbr.nathanchung.dev/badge?page_id=rozbloom.rozbloom&color=00cf00)
+
+Last updated: 0000-00-00 <!-- AUTO_LAST_UPDATED -->
 <!--
 **rozbloom/rozbloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,12 +23,12 @@ Here are some ideas to get you started:
 - ⏰ worked as full-stack deveoper intern at Uponli @ https://uponli.com/
 - 🎓 enrolled @ Bachelor's Software engineering from BahirDar University, expected graduation : June,2027
 - 🎓 enrolled @ Bachelor's Business Management from Alpha University & college, expected graduation : June,2027
-- 🌐 You can access all my open source projects here @[github](https://github.com/rozbloom/)
+- 🌐 You can access all my open source projects here [github](https://github.com/rozbloom/)
 
 ## 🔤 what I am upto :
-'''yaml
-working on developing dental clinics management system @[AlyahSoftware](https://alyahsoftware.com/)
-'''
+```yaml
+working on developing dental clinics management system AlyahSoftware
+```
 ## 📫 how to reach me :
 you can reach me at the email in my githu profile.follow my socials 
 
