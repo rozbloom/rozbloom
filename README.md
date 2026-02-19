@@ -29,10 +29,22 @@ Here are some ideas to get you started:
 ```yaml
 working on developing dental clinics management system AlyahSoftware
 ```
- 🥇 I am currently :
+## 🥇 I am currently :
  - Ambassador for G17 UNIVERSITY AMBASSADORS CONSORTIUM @ [BahirDar University](https://www.bdu.edu.et/)
  -  Sponsor Finder & External Relations Lead @ Hult Prize Startup - Bahir Dar University (BiT)
  -  Software developer intern @ [Alyah software](https://alyahsoftware.com/)
+
+🔔 a big fan of English football!
+
+##✍️ lists of my Gists:
+-[professional website](https://github.com/rozbloom/professional_website)
+-[space invaders](https://github.com/rozbloom/my_first_game_project)
+-[legends and lies](https://github.com/rozbloom/legends_and_lies)
+-[birthday special for me](https://github.com/rozbloom/birthday_special)
+
+## 🆕 My latest github activity :
+-provided a requirements document for the dental clinics management system
+<!-- add MY github metrics here, the site isn't responding now -->
 ## 📫 how to reach me :
 you can reach me at the email in my githu profile.follow my socials 
 
