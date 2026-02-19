@@ -1,0 +1,35 @@
+name: Keep README last-updated fresh
+
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}  # safer in all cases
+
+      - name: Set current date
+        run: echo "TODAY=$(date +%Y-%m-%d)" >> "$GITHUB_ENV"
+
+      - name: Replace last updated date
+        run: |
+          # More robust version — preserves whatever comes after "Last updated:"
+          sed -i 's|\(.*Last updated:\).*|\1 '"${TODAY}"'|' README.md
+          # Alternative (even stricter — requires exact "Last updated: YYYY-MM-DD"):
+          # sed -i 's|Last updated: [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}|Last updated: '"${TODAY}"'|' README.md
+
+      - name: Commit change if any
+        uses: stefanzweifel/git-auto-commit-action@v7  # ← updated to latest major version
+        with:
+          commit_message: "chore: update last updated date [skip ci]"
+          file_pattern: README.md
+          # Optional but recommended additions:
+          # commit_user_name:  github-actions[bot]
+          # commit_user_email:  github-actions[bot]@users.noreply.github.com
+          # skip_push: false   # (default = false)
+          # skip_dirty_check: false
