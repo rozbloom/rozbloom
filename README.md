@@ -2,7 +2,7 @@
 
 ![profile view](https://vbr.nathanchung.dev/badge?page_id=rozbloom.rozbloom&color=00cf00)
 
-Last updated: 0000-00-00 <!-- AUTO_LAST_UPDATED -->
+Last updated: 2026-02-19
 <!--
 **rozbloom/rozbloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
