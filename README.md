@@ -19,20 +19,32 @@ Here are some ideas to get you started:
 -->
 
 ## :book: ABOUT ME 
-- 💻 software dev, here to solve problems 
+- 💻 software dev, here to solve problems
+- ⏰ worked as full-stack deveoper intern at Alyah @ https://Alyah.com/
 - ⏰ worked as full-stack deveoper intern at Uponli @ https://uponli.com/
+- ⏰ Developer, Ameco (ICT department): digital advertising platform @ https://www.ameco.et/english/
 - 🎓 enrolled @ Bachelor's Software engineering from BahirDar University, expected graduation : June,2027
 - 🎓 enrolled @ Bachelor's Business Management from Alpha University & college, expected graduation : June,2027
 - 🌐 You can access all my open source projects here [github](https://github.com/rozbloom/)
 
 ## 🔤 what I am upto :
 ```yaml
-working on developing dental clinics management system AlyahSoftware
+I'm now working on an Amharic legal-aid assistant for my final year project.
 ```
 ## 🥇 I am currently :
  - Ambassador for G17 UNIVERSITY AMBASSADORS CONSORTIUM @ [BahirDar University](https://www.bdu.edu.et/)
  -  Sponsor Finder & External Relations Lead @ Hult Prize Startup - Bahir Dar University (BiT)
- -  Software developer intern @ [Alyah software](https://alyahsoftware.com/)
+
+## 🎓 Learning and certifications
+- IBM Tech Training (Product Development, watsonx.ai)
+- Foundations of Artificial Intelligence
+  
+## 🤝 Let's connect
+- LinkedIn: @ www.linkedin.com/in/roza-getachew
+- Email: @ getachewroza2@gmail.com
+- Portfolio: @ https://rozbloom.github.io/
+
+#### If you're hiring or want to collaborate on AI for local-language problems, I'd love to hear from you.
 
 🔔 a big fan of English football!
 
